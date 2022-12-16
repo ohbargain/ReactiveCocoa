@@ -2409,7 +2409,7 @@
 			baseConfigurationReference = D047263719E49FE8006002AA /* macOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = ReactiveMapKitTests/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKitTests;
 				PRODUCT_NAME = ReactiveMapKitTests;
 			};
@@ -2420,7 +2420,7 @@
 			baseConfigurationReference = D047263719E49FE8006002AA /* macOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = ReactiveMapKitTests/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKitTests;
 				PRODUCT_NAME = ReactiveMapKitTests;
 			};
@@ -2431,7 +2431,7 @@
 			baseConfigurationReference = D047263719E49FE8006002AA /* macOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = ReactiveMapKitTests/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKitTests;
 				PRODUCT_NAME = ReactiveMapKitTests;
 			};
@@ -2442,7 +2442,7 @@
 			baseConfigurationReference = D047263719E49FE8006002AA /* macOS-Application.xcconfig */;
 			buildSettings = {
 				INFOPLIST_FILE = ReactiveMapKitTests/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKitTests;
 				PRODUCT_NAME = ReactiveMapKitTests;
 			};
@@ -2592,7 +2592,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D047262919E49FE8006002AA /* Debug.xcconfig */;
 			buildSettings = {
-				APPLETVOS_DEPLOYMENT_TARGET = 9.0;
+				APPLETVOS_DEPLOYMENT_TARGET = 10.0;
 				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
@@ -2620,7 +2620,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D047262B19E49FE8006002AA /* Release.xcconfig */;
 			buildSettings = {
-				APPLETVOS_DEPLOYMENT_TARGET = 9.0;
+				APPLETVOS_DEPLOYMENT_TARGET = 10.0;
 				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
@@ -2743,7 +2743,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D047262A19E49FE8006002AA /* Profile.xcconfig */;
 			buildSettings = {
-				APPLETVOS_DEPLOYMENT_TARGET = 9.0;
+				APPLETVOS_DEPLOYMENT_TARGET = 10.0;
 				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
@@ -2817,7 +2817,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D047262C19E49FE8006002AA /* Test.xcconfig */;
 			buildSettings = {
-				APPLETVOS_DEPLOYMENT_TARGET = 9.0;
+				APPLETVOS_DEPLOYMENT_TARGET = 10.0;
 				BITCODE_GENERATION_MODE = bitcode;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
